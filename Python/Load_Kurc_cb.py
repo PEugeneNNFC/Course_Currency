@@ -17,9 +17,9 @@ class CourseCourse(object):
         self.lg.set_is_time(True)
 
         self.user     = ''
-        self.password = ''
+        self.password = '' 
         self.host     = ''
-        self.port     = 5464
+        self.port     = 5432
         self.database = ''
 
 
